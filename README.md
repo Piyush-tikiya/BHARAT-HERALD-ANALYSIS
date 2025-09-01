@@ -56,6 +56,9 @@ Found cities with strictly declining net_circulation & ad_revenue every year.
 Identified the outlier city: high readiness but low engagement.
 
 
+<img width="1130" height="622" alt="image" src="https://github.com/user-attachments/assets/43e5e0ab-9d6f-4f8a-84b3-1f6cce52ed3f" />
+
+
 🛠 Tools & Skills Used
 
 SQL (MySQL) – core analysis.
